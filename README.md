@@ -1,2 +1,1 @@
-# yagyapandeya.github.io
-Personal CV
+CV
